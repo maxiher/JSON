@@ -1,0 +1,167 @@
+[
+   {
+    "nombre": "Balneario Solis",
+    "departamento": "Maldonado",
+    "seccion": 0,
+    "descripcion": "Lugar muy concurrido, ideal para pesca costera.",
+    "acceso": "Facil",
+    "profundidad": 2,
+    "enganche": 3,
+    "imagenes": ["Fotos/maldonado/solis.webp"],
+    "especies": ["Pejerrey", "Corvina", "Brótola"],
+    "ubicacion": {
+      "lat": -34.801997,
+      "lng": -55.375494
+    }
+  },
+              {
+    "nombre": "Bella Vista",
+    "departamento": "Maldonado",
+    "seccion": 1,
+    "descripcion": "Lugar muy concurrido, ideal para pesca costera.",
+    "acceso": "Facil",
+    "profundidad": 2,
+    "enganche": 2,
+    "imagenes": ["Fotos/maldonado/bellavista.webp"],
+    "especies": ["Pejerrey", "Corvina", "Brótola"],
+    "ubicacion": {
+      "lat": -34.806123,
+      "lng": -55.353851
+    }
+  },
+              {
+    "nombre": "Piriápolis",
+    "departamento": "Maldonado",
+    "seccion": 2,
+    "descripcion": "Lugar muy concurrido, ideal para pesca costera.",
+    "acceso": "Medio",
+    "profundidad": 2,
+    "enganche": 2,
+    "imagenes": ["Fotos/maldonado/piriapolis.webp"],
+    "especies": ["Pejerrey", "Corvina", "Brótola"],
+    "ubicacion": {
+      "lat": -34.874314,
+      "lng": -55.282634
+    }
+  },
+              {
+    "nombre": "Punta Colorada",
+    "departamento": "Maldonado",
+    "seccion": 3,
+    "descripcion": "Lugar muy concurrido, ideal para pesca costera.",
+    "acceso": "Medio",
+    "profundidad": 2,
+    "enganche": 4,
+    "imagenes": ["Fotos/maldonado/puntacolorada.webp"],
+    "especies": ["Pejerrey", "Corvina", "Brótola"],
+    "ubicacion": {
+      "lat": -34.902901,
+      "lng": -55.257029
+    }
+  },
+              {
+    "nombre": "Punta Negra",
+    "departamento": "Maldonado",
+    "seccion": 4,
+    "descripcion": "Lugar muy concurrido, ideal para pesca costera.",
+    "acceso": "Medio",
+    "profundidad": 2,
+    "enganche": 4,
+    "imagenes": ["Fotos/maldonado/puntanegra.webp"],
+    "especies": ["Pejerrey", "Corvina", "Brótola"],
+    "ubicacion": {
+      "lat": -34.904048,
+      "lng": -55.236875
+    }
+  },
+              {
+    "nombre": "Ocean Park",
+    "departamento": "Maldonado",
+    "seccion": 5,
+    "descripcion": "Lugar muy concurrido, ideal para pesca costera.",
+    "acceso": "Facil",
+    "profundidad": 2,
+    "enganche": 1,
+    "imagenes": ["Fotos/maldonado/oceanpark.webp"],
+    "especies": ["Pejerrey", "Corvina", "Brótola"],
+    "ubicacion": {
+      "lat": -34.878973,
+      "lng": -55.124700
+    }
+  },
+              {
+    "nombre": "Punta Ballena",
+    "departamento": "Maldonado",
+    "seccion": 6,
+    "descripcion": "Lugar muy concurrido, ideal para pesca costera.",
+    "acceso": "Facil",
+    "profundidad": 2,
+    "enganche": 4,
+    "imagenes": ["Fotos/maldonado/puntaballena.webp"],
+    "especies": ["Pejerrey", "Corvina", "Brótola"],
+    "ubicacion": {
+      "lat": -34.913280,
+      "lng": -55.045963
+    }
+  },
+              {
+    "nombre": "Punta del Este",
+    "departamento": "Maldonado",
+    "seccion": 7,
+    "descripcion": "Lugar muy concurrido, ideal para pesca costera.",
+    "acceso": "Facil",
+    "profundidad": 2,
+    "enganche": 1,
+    "imagenes": ["Fotos/maldonado/puntadeleste.webp"],
+    "especies": ["Pejerrey", "Corvina", "Brótola"],
+    "ubicacion": {
+      "lat": -34.947332,
+      "lng": -54.947712
+    }
+  },
+              {
+    "nombre": "Manantiales",
+    "departamento": "Maldonado",
+    "seccion": 8,
+    "descripcion": "Lugar muy concurrido, ideal para pesca costera.",
+    "acceso": "Facil",
+    "profundidad": 2,
+    "enganche": 3,
+    "imagenes": ["Fotos/maldonado/manantiales.webp"],
+    "especies": ["Pejerrey", "Corvina", "Brótola"],
+    "ubicacion": {
+      "lat": -34.908533,
+      "lng": -54.824407
+    }
+  },
+              {
+    "nombre": "Santa Monica",
+    "departamento": "Maldonado",
+    "seccion": 9,
+    "descripcion": "Lugar muy concurrido, ideal para pesca costera.",
+    "acceso": "Facil",
+    "profundidad": 2,
+    "enganche": 2,
+    "imagenes": ["Fotos/maldonado/santamonica.webp"],
+    "especies": ["Pejerrey", "Corvina", "Brótola"],
+    "ubicacion": {
+      "lat": -34.850769,
+      "lng": -54.700203
+    }
+  },
+              {
+    "nombre": "José Ignacio",
+    "departamento": "Maldonado",
+    "seccion": 10,
+    "descripcion": "Lugar muy concurrido, ideal para pesca costera.",
+    "acceso": "Facil",
+    "profundidad": 2,
+    "enganche": 3,
+    "imagenes": ["Fotos/maldonado/joseignacio.webp"],
+    "especies": ["Pejerrey", "Corvina", "Brótola"],
+    "ubicacion": {
+      "lat": -34.846220,
+      "lng": -54.630949
+    }
+  }
+]
